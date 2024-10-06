@@ -2,8 +2,8 @@
 
 <lastupdateYYMMDD>241005</lastupdateYYMMDD>
 <quality>HIGH</quality>
-<versionurl>https://www.dropbox.com/scl/fi/oetlg91syxnrdydqm2wxt/version.txt?rlkey=feb68rma8siwqvkq97bnd79dq&st=y9f1aa19&dl=1</versionurl>
-<updateurl>https://www.dropbox.com/scl/fi/t0xuclxzfpj8cofib01db/updatelist.txt?rlkey=lug2hixgtzt5yij5wbqe8ijwm&st=66ujbegh&dl=1</updateurl>
+<versionurl>https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/tags/Kisekiv1/version.txt?token=GHSAT0AAAAAACYQKD5SUITGO7PNNN556ZJWZYB3W4Q</versionurl>
+<updateurl>https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/tags/Kisekiv1/updatelist.txt?token=GHSAT0AAAAAACYQKD5SVMO3TFROYGC4KGN2ZYB3XIQ</updateurl>
 <message>hopethisworks</message>
 
 </version>
