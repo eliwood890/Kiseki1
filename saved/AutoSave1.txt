@@ -1,0 +1,11 @@
+<save>
+<turn>2</turn>
+<player>
+<name>Scan</name>
+<seat>0</seat>
+</player>
+<player>
+<name>Test Dummy</name>
+<seat>1</seat>
+</player>
+</save>

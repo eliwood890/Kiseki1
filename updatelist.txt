@@ -1,0 +1,15 @@
+Kiseki	10-05-24
+plugins/Kiseki/plugininfo.txt	https://www.dropbox.com/scl/fi/1y8zekbinl42qrf6jrgu3/plugininfo.txt?rlkey=5hl4xfgbvk225w4irg7qh038f&st=4iywh4cl&dl=1	319931
+plugins/Kiseki/defaultchat.txt	https://www.dropbox.com/scl/fi/scyza7iwq9hjn22n2dk0j/defaultchat.txt?rlkey=wv5bqw3j5v72recql5rb4sbdq&st=bn6u4lnm&dl=1	10407
+plugins/Kiseki/CardImageURLs1.txt	https://www.dropbox.com/scl/fi/a515k4u0o32pzdwmkab7c/CardImageURLs1.txt?rlkey=t3l5d06ujkmxk7t7s0r0sv3s3&st=g9rrgxw2&dl=1	1429428
+plugins/Kiseki/version.txt	https://www.dropbox.com/scl/fi/oetlg91syxnrdydqm2wxt/version.txt?rlkey=feb68rma8siwqvkq97bnd79dq&st=jkie9d7l&dl=1	37371
+plugins/Kiseki/packs/packdefinitions1.xml	https://www.dropbox.com/scl/fi/v02g1pgsv9bm4apsqr5h5/packdefinitions1.xml?rlkey=hwlvcr2qpmsrqbo24qxhxf9k4&st=bc7sex0p&dl=1	131143
+plugins/Kiseki/packs/BP01.jpg	https://www.dropbox.com/scl/fi/00wbqf79ixi6k8zg96s3y/bpo1.jpg?rlkey=ha39q7932t16sfrpsgftc946j&st=xp4wn7sz&dl=1	0
+plugins/Kiseki/cardback.jpg	https://www.dropbox.com/scl/fi/a75nv0tnpp5gg4cbsabyi/cardback.jpg?rlkey=7oph8nsv1xzhsx0qd02h2je4q&st=nnhtjgg2&dl=1	-20220
+plugins/Kiseki/sets/CardData1.txt	https://www.dropbox.com/scl/fi/93hqbl7wuw6heiqkhauor/carddata1.txt?rlkey=4k07ao7xsbme39urbsxp4ce3l&st=tmng7uoz&dl=1	2471325
+
+CardURLFiles:
+CardImageURLs1.txt
+
+CardGeneralURLs:
+https://www.tcg-corp.net/kisekitcg/kisekitcg-01-gallery

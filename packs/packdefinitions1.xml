@@ -1,0 +1,36 @@
+<packdefinitions version="1.0">
+
+<pack>
+	<packtitle>Trails Set 1</packtitle>
+	<packimage>01-023.jpg</packimage>
+	<packformat>Any</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>general</data></packcommoncrit>
+	<chance>
+		<prob>3</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SEC</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>N</data></crit></kind>
+	</chance>	
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>N</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>20</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>N</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>72</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>N</data></crit></kind>
+	</chance>
+</pack>
+
+</packdefinitions>
