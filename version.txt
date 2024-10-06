@@ -2,8 +2,8 @@
 
 <lastupdateYYMMDD>241005</lastupdateYYMMDD>
 <quality>HIGH</quality>
-<versionurl>https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/tags/Kisekiv1/version.txt?token=GHSAT0AAAAAACYQKD5SUITGO7PNNN556ZJWZYB3W4Q</versionurl>
-<updateurl>https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/tags/Kisekiv1/updatelist.txt?token=GHSAT0AAAAAACYQKD5SVMO3TFROYGC4KGN2ZYB3XIQ</updateurl>
+<versionurl>https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/updatelist.txt</updateurl>
 <message>hopethisworks</message>
 
 </version>

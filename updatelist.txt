@@ -1,12 +1,12 @@
 Kiseki	10-05-24
-plugins/Kiseki/plugininfo.txt	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/tags/Kisekiv1/plugininfo.txt?token=GHSAT0AAAAAACYQKD5TPCKI5VYGW32DFALWZYB3XWA	319931
-plugins/Kiseki/defaultchat.txt	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/tags/Kisekiv1/defaultchat.txt?token=GHSAT0AAAAAACYQKD5TZ3PMVTUOKJUEYQMEZYB3X6Q	10407
-plugins/Kiseki/CardImageURLs1.txt	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/tags/Kisekiv1/CardImageURLs1.txt?token=GHSAT0AAAAAACYQKD5SDG3TVM5GMSLHLBTOZYB3YFQ	1132014
-plugins/Kiseki/version.txt	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/tags/Kisekiv1/version.txt?token=GHSAT0AAAAAACYQKD5TCDFTNLEFNDI7ISUSZYB3YSA	39279
-plugins/Kiseki/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/tags/Kisekiv1/packs/packdefinitions1.xml?token=GHSAT0AAAAAACYQKD5T5KEFJCYKYLMHMPKUZYB3Y2Q	133244
-plugins/Kiseki/packs/01-023.jpg	https://github.com/eliwood890/Kiseki1/blob/Kisekiv1/packs/01-023.jpg	-63127
-plugins/Kiseki/cardback.jpg	https://github.com/eliwood890/Kiseki1/blob/Kisekiv1/cardback.jpg	-20220
-plugins/Kiseki/sets/CardData1.txt	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/tags/Kisekiv1/sets/carddata1.txt?token=GHSAT0AAAAAACYQKD5S227EG7XNY72PRA6KZYB3ZTQ	2471325
+plugins/Kiseki/plugininfo.txt	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/plugininfo.txt	319931
+plugins/Kiseki/defaultchat.txt	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/defaultchat.txt	10407
+plugins/Kiseki/CardImageURLs1.txt	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/CardImageURLs1.txt	1356826
+plugins/Kiseki/version.txt	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/version.txt	31360
+plugins/Kiseki/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/packs/packdefinitions1.xml	133244
+plugins/Kiseki/packs/01-023.jpg	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/packs/01-023.jpg	-63127
+plugins/Kiseki/cardback.jpg	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/cardback.jpg	-20220
+plugins/Kiseki/sets/CardData1.txt	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/sets/carddata1.txt	2471325
 CardImageURLs:
 CardImageURLs1.txt
 
