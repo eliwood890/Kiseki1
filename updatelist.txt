@@ -7,7 +7,8 @@ plugins/Kiseki/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eliw
 plugins/Kiseki/packs/01-023.jpg	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/packs/01-023.jpg	-63127
 plugins/Kiseki/cardback.jpg	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/cardback.jpg	-20220
 plugins/Kiseki/sets/CardData1.txt	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/sets/carddata1.txt	2471325
-CardImageURLs:
+
+CardURLFiles:
 CardImageURLs1.txt
 
 CardGeneralURLs:
