@@ -1,4 +1,4 @@
-CardImagesURLs:	
+CardImageURLs:	
 general/01-001.jpg	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/sets/setimages/general/01-001.jpg
 general/01-002.jpg	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/sets/setimages/general/01-002.jpg
 general/01-003.jpg	https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/sets/setimages/general/01-003.jpg
