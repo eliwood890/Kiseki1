@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>Kiseki</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="01-028">Covering Fire</name><set>1</set></card>
+		<card><name id="01-028">Covering Fire</name><set>1</set></card>
+		<card><name id="01-024">Ellie&apos;s Morning</name><set>1</set></card>
+		<card><name id="01-024">Ellie&apos;s Morning</name><set>1</set></card>
+		<card><name id="01-046">Crossbell Police Academy</name><set>1</set></card>
+		<card><name id="01-046">Crossbell Police Academy</name><set>1</set></card>
+		<card><name id="01-046">Crossbell Police Academy</name><set>1</set></card>
+		<card><name id="01-046">Crossbell Police Academy</name><set>1</set></card>
+		<card><name id="01-110">Lloyd Bannings [Detective]</name><set>1</set></card>
+		<card><name id="01-110">Lloyd Bannings [Detective]</name><set>1</set></card>
+		<card><name id="01-110">Lloyd Bannings [Detective]</name><set>1</set></card>
+		<card><name id="01-110">Lloyd Bannings [Detective]</name><set>1</set></card>
+		<card><name id="01-082">Fran Seeker [Noel&apos;s Sister]</name><set>1</set></card>
+		<card><name id="01-082">Fran Seeker [Noel&apos;s Sister]</name><set>1</set></card>
+		<card><name id="01-082">Fran Seeker [Noel&apos;s Sister]</name><set>1</set></card>
+		<card><name id="01-082">Fran Seeker [Noel&apos;s Sister]</name><set>1</set></card>
+		<card><name id="01-093">Randy Orlando [Nice Guy]</name><set>1</set></card>
+		<card><name id="01-093">Randy Orlando [Nice Guy]</name><set>1</set></card>
+		<card><name id="01-093">Randy Orlando [Nice Guy]</name><set>1</set></card>
+		<card><name id="01-073">Tio Plato [Magic Staff]</name><set>1</set></card>
+		<card><name id="01-073">Tio Plato [Magic Staff]</name><set>1</set></card>
+		<card><name id="01-073">Tio Plato [Magic Staff]</name><set>1</set></card>
+		<card><name id="01-111">Lloyd Bannings [Special Support Section]</name><set>1</set></card>
+		<card><name id="01-111">Lloyd Bannings [Special Support Section]</name><set>1</set></card>
+		<card><name id="01-111">Lloyd Bannings [Special Support Section]</name><set>1</set></card>
+		<card><name id="01-111">Lloyd Bannings [Special Support Section]</name><set>1</set></card>
+		<card><name id="01-092">Randy Orlando [Special Support Section]</name><set>1</set></card>
+		<card><name id="01-092">Randy Orlando [Special Support Section]</name><set>1</set></card>
+		<card><name id="01-092">Randy Orlando [Special Support Section]</name><set>1</set></card>
+		<card><name id="01-072">Tio Plato [Special Support Section]</name><set>1</set></card>
+		<card><name id="01-072">Tio Plato [Special Support Section]</name><set>1</set></card>
+		<card><name id="01-072">Tio Plato [Special Support Section]</name><set>1</set></card>
+		<card><name id="01-025">Ellie McDowell [Second in Command]</name><set>1</set></card>
+		<card><name id="01-025">Ellie McDowell [Second in Command]</name><set>1</set></card>
+		<card><name id="01-112">Lloyd Bannings [Indomitable]</name><set>1</set></card>
+		<card><name id="01-112">Lloyd Bannings [Indomitable]</name><set>1</set></card>
+		<card><name id="01-001">ENIGMA [Tactical Orbment]</name><set>1</set></card>
+		<card><name id="01-001">ENIGMA [Tactical Orbment]</name><set>1</set></card>
+		<card><name id="01-001">ENIGMA [Tactical Orbment]</name><set>1</set></card>
+		<card><name id="01-001">ENIGMA [Tactical Orbment]</name><set>1</set></card>
+		<card><name id="01-038">KE-A [Mysterious Girl]</name><set>1</set></card>
+		<card><name id="01-038">KE-A [Mysterious Girl]</name><set>1</set></card>
+		<card><name id="01-038">KE-A [Mysterious Girl]</name><set>1</set></card>
+		<card><name id="01-038">KE-A [Mysterious Girl]</name><set>1</set></card>
+		<card><name id="01-075">Special Support Section</name><set>1</set></card>
+		<card><name id="01-075">Special Support Section</name><set>1</set></card>
+		<card><name id="01-070">Saint-Arkh Cathedral</name><set>1</set></card>
+		<card><name id="01-070">Saint-Arkh Cathedral</name><set>1</set></card>
+		<card><name id="01-013">Alex Dudley [Chief of Investigation Division 1]</name><set>1</set></card>
+		<card><name id="01-013">Alex Dudley [Chief of Investigation Division 1]</name><set>1</set></card>
+	</superzone>
+</deck>

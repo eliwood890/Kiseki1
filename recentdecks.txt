@@ -1,1 +1,2 @@
-RECENTDECK0:unnamed.dek
+RECENTDECK0:Ouroborus_Test.dek
+RECENTDECK1:Crossbell_Test.dek

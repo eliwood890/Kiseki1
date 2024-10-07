@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>Kiseki</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="01-050">Georg Weissmann [Professor Alba]</name><set>1</set></card>
+		<card><name id="01-050">Georg Weissmann [Professor Alba]</name><set>1</set></card>
+		<card><name id="01-050">Georg Weissmann [Professor Alba]</name><set>1</set></card>
+		<card><name id="01-050">Georg Weissmann [Professor Alba]</name><set>1</set></card>
+		<card><name id="01-107">Renne [Girl]</name><set>1</set></card>
+		<card><name id="01-107">Renne [Girl]</name><set>1</set></card>
+		<card><name id="01-107">Renne [Girl]</name><set>1</set></card>
+		<card><name id="01-107">Renne [Girl]</name><set>1</set></card>
+		<card><name id="01-037">Campanella [Young Guide]</name><set>1</set></card>
+		<card><name id="01-037">Campanella [Young Guide]</name><set>1</set></card>
+		<card><name id="01-099">Luciola Harvey [Bewitching Bell]</name><set>1</set></card>
+		<card><name id="01-099">Luciola Harvey [Bewitching Bell]</name><set>1</set></card>
+		<card><name id="01-099">Luciola Harvey [Bewitching Bell]</name><set>1</set></card>
+		<card><name id="01-099">Luciola Harvey [Bewitching Bell]</name><set>1</set></card>
+		<card><name id="01-108">Renne [Angel of Slaughter]</name><set>1</set></card>
+		<card><name id="01-108">Renne [Angel of Slaughter]</name><set>1</set></card>
+		<card><name id="01-108">Renne [Angel of Slaughter]</name><set>1</set></card>
+		<card><name id="01-108">Renne [Angel of Slaughter]</name><set>1</set></card>
+		<card><name id="01-106">Renne [Enforcer]</name><set>1</set></card>
+		<card><name id="01-106">Renne [Enforcer]</name><set>1</set></card>
+		<card><name id="01-106">Renne [Enforcer]</name><set>1</set></card>
+		<card><name id="01-106">Renne [Enforcer]</name><set>1</set></card>
+		<card><name id="01-018">Walter Kron [Dire Wolf]</name><set>1</set></card>
+		<card><name id="01-018">Walter Kron [Dire Wolf]</name><set>1</set></card>
+		<card><name id="01-083">Bleublanc</name><set>1</set></card>
+		<card><name id="01-083">Bleublanc</name><set>1</set></card>
+		<card><name id="01-083">Bleublanc</name><set>1</set></card>
+		<card><name id="01-083">Bleublanc</name><set>1</set></card>
+		<card><name id="01-100">Luciola Harvey [Enforcer].</name><set>1</set></card>
+		<card><name id="01-100">Luciola Harvey [Enforcer].</name><set>1</set></card>
+		<card><name id="01-100">Luciola Harvey [Enforcer].</name><set>1</set></card>
+		<card><name id="01-100">Luciola Harvey [Enforcer].</name><set>1</set></card>
+		<card><name id="01-017">Walter Kron [Enforcer]</name><set>1</set></card>
+		<card><name id="01-017">Walter Kron [Enforcer]</name><set>1</set></card>
+		<card><name id="01-103">Leonhardt [The Bladelord Loewe]</name><set>1</set></card>
+		<card><name id="01-103">Leonhardt [The Bladelord Loewe]</name><set>1</set></card>
+		<card><name id="01-008">Struck By The Rain</name><set>1</set></card>
+		<card><name id="01-008">Struck By The Rain</name><set>1</set></card>
+		<card><name id="01-008">Struck By The Rain</name><set>1</set></card>
+		<card><name id="01-008">Struck By The Rain</name><set>1</set></card>
+		<card><name id="01-059">Sapphirl Tower [Tetracyclic Towers]</name><set>1</set></card>
+		<card><name id="01-059">Sapphirl Tower [Tetracyclic Towers]</name><set>1</set></card>
+		<card><name id="01-052">Saint under the Moon</name><set>1</set></card>
+		<card><name id="01-052">Saint under the Moon</name><set>1</set></card>
+		<card><name id="01-031">Orchis Tower</name><set>1</set></card>
+		<card><name id="01-031">Orchis Tower</name><set>1</set></card>
+		<card><name id="01-058">Amberl Tower [Tetracyclic Towers]</name><set>1</set></card>
+		<card><name id="01-058">Amberl Tower [Tetracyclic Towers]</name><set>1</set></card>
+		<card><name id="01-020">Ouroboros Social Gathering</name><set>1</set></card>
+		<card><name id="01-020">Ouroboros Social Gathering</name><set>1</set></card>
+	</superzone>
+</deck>
