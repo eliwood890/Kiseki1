@@ -56,6 +56,7 @@
 <bindinggeneral1>CTRL+UP</bindinggeneral1>
 <bindinggeneral2>CTRL+DOWN</bindinggeneral2>
 <bindinggeneral3>CTRL+u</bindinggeneral3>
+<bindinggeneral4>ALT+3</bindinggeneral4>
 <bindinggeneral5>CTRL+RIGHT</bindinggeneral5>
 <bindinggeneral6>CTRL+SHIFT+c</bindinggeneral6>
 <bindinggeneral7>META+LEFT</bindinggeneral7>
@@ -68,6 +69,7 @@
 <bindingcard5>CTRL+EQUALS</bindingcard5>
 <bindingcard6>ALT+i</bindingcard6>
 <bindingcard7>CTRL+a</bindingcard7>
+<bindingcard8>CTRL+t</bindingcard8>
 <bindingcard9>ALT+s</bindingcard9>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
