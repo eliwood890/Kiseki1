@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>241005</lastupdateYYMMDD>
+<lastupdateYYMMDD>250202</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eliwood890/Kiseki1/refs/heads/main/updatelist.txt</updateurl>
